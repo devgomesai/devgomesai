@@ -70,5 +70,3 @@
 </p>
 
 ---
-
-⭐️ _“Code is not just syntax — it's the language of innovation.”_  
