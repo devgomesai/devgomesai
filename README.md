@@ -1,5 +1,5 @@
-**Jonathan Gomes**  
-AI/ML & Backend Developer (Python)
+<h1 align="center">👋 Hey there, I'm Jonathan Gomes!</h1>
+<h3 align="center">AI/ML & Backend Developer (Python)</h3>
 
 ---
 
