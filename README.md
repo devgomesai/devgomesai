@@ -70,6 +70,3 @@
 </p>
 
 ---
-
-
-This is my GitHub readme make it as simple as possible also remove images
