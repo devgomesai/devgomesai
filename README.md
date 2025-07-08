@@ -68,11 +68,3 @@ I'm a technology-driven engineer passionate about building **intelligent systems
 </p>
 
 ---
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-gomes-bb1574289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
