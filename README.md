@@ -3,12 +3,6 @@
 
 ---
 
-## 🚀 About Me
-
-I love tech
-
----
-
 ## 💼 Areas of Expertise
 
 - 🤖 Deep Learning & Generative AI  
