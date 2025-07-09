@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a technology-driven engineer passionate about building **intelligent systems** and **scalable backend architectures**. I focus on delivering real-world impact through **Machine Learning**, **Cloud Automation**, and **API-centric solutions**. My work blends robust engineering with practical AI.
+I love tech
 
 ---
 
