@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hi, I'm Jonathan Gomes</h1>
-<h3 align="center">AI/ML Engineer · Cloud Enthusiast · Backend Developer</h3>
+<h3 align="center">Aspiring AI/ML Engineer · Cloud Enthusiast · Backend Developer</h3>
 
 ---
 
 ## 💼 Areas of Expertise
 
-- 🤖 Deep Learning & Generative AI  
-- 🗣️ Natural Language Processing (NLP)  
-- ⚙️ Automation & Workflow Orchestration  
-- 🔧 Backend Development & API Engineering  
-- ☁️ Cloud Deployments on AWS, Vercel, etc.
-
+- 🤖 **Machine Learning**, **Deep Learning**, and **Generative AI** 
+- 🗣️ **Natural Language Processing (NLP)**
+- ⚙️ **Automation & Workflow Orchestration**
+- 🔧 **Backend Development & API Engineering** 
+- ☁️ **Cloud Deployment & DevOps** 
 ---
 
 ## 🛠️ Tech Stack
@@ -29,11 +28,14 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" />
+
 </p>
 
-### 🤖 AI/ML Ecosystem
+### 🤖 AI Ecosystem
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -41,6 +43,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & Databases
