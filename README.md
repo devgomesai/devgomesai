@@ -6,7 +6,6 @@
 ## 💼 Areas of Expertise
 
 - 🤖 **Machine Learning**, **Deep Learning**, and **Generative AI** 
-- 🗣️ **Natural Language Processing (NLP)**
 - ⚙️ **Automation & Workflow Orchestration**
 - 🔧 **Backend Development & API Engineering** 
 - ☁️ **Cloud Deployment & DevOps** 
