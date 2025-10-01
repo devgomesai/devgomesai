@@ -1,14 +1,23 @@
-<h1 align="center">👋 Hi, I'm Jonathan Gomes</h1>
-<h3 align="center">Aspiring AI/ML Engineer · Cloud Enthusiast · Backend Developer</h3>
+## Hi there! 👋 I'm Jonathan Gomes
+
+🚀 **About Me**  
+I have a deep interest in building intelligent systems and scalable backend solutions.  
+I enjoy working at the intersection of **machine learning**, **cloud deployment**, and **automation**, turning ideas into real-world applications.  
+
+🔭 **Currently working on:** Go  
+🌱 **Learning:** Advanced generative AI techniques, graph-based knowledge systems (Neo4j, LangGraph)  
+💡 **Interests:** Cloud-native AI, backend architecture, and leveraging automation for smarter developer workflows  
+🎯 **Goal:** Becoming a leading engineer in **AI + Cloud systems**, contributing to projects that push boundaries in intelligent automation  
 
 ---
 
 ## 💼 Areas of Expertise
 
-- 🤖 **Machine Learning**, **Deep Learning** and **Generative AI** 
-- ⚙️ **Automation & Workflow Orchestration**
-- 🔧 **Backend Development & API Engineering** 
-- ☁️ **Cloud Deployment & DevOps** 
+- 🤖 **Machine Learning**, **Deep Learning** and **Generative AI**  
+- ⚙️ **Automation & Workflow Orchestration**  
+- 🔧 **Backend Development & API Engineering**  
+- ☁️ **Cloud Deployment & DevOps**  
+
 ---
 
 ## 🛠️ Tech Stack
@@ -16,7 +25,7 @@
 ### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
@@ -24,11 +33,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" />
-
 </p>
 
 ### 🤖 AI Ecosystem
