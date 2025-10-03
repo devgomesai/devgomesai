@@ -3,8 +3,7 @@
 🚀 **About Me**  
 I have a deep interest in building intelligent systems and scalable backend solutions.  
 I enjoy working at the intersection of **machine learning**, **cloud deployment**, and **automation**, turning ideas into real-world applications.  
-
-🔭 **Currently working on:** Go  
+  
 🌱 **Learning:** Advanced generative AI techniques, graph-based knowledge systems (Neo4j, LangGraph)  
 💡 **Interests:** Cloud-native AI, backend architecture, and leveraging automation for smarter developer workflows  
 🎯 **Goal:** Becoming a leading engineer in **AI + Cloud systems**, contributing to projects that push boundaries in intelligent automation  
@@ -25,7 +24,7 @@ I enjoy working at the intersection of **machine learning**, **cloud deployment*
 ### 💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
