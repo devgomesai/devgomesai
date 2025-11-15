@@ -1,21 +1,15 @@
-## Hi there! 👋 I'm Jonathan Gomes
-
-🚀 **About Me**  
+### 🚀 About Me
 I have a deep interest in building intelligent systems and scalable backend solutions.  
-I enjoy working at the intersection of **machine learning**, **cloud deployment**, and **automation**, turning ideas into real-world applications.  
-  
-🌱 **Learning:** Go for building mciro-ai services
-💡 **Interests:** Cloud-native AI, backend architecture, and leveraging automation for smarter developer workflows  
-🎯 **Goal:** Becoming a leading engineer in **AI + Cloud systems**, contributing to projects that push boundaries in intelligent automation  
+I enjoy working at the intersection of machine learning, cloud deployment, and automation, turning ideas into real-world applications.
 
 ---
 
 ## 💼 Areas of Expertise
 
-- 🤖 **Machine Learning**, **Deep Learning** and **Generative AI**  
-- ⚙️ **Automation & Workflow Orchestration**  
-- 🔧 **Backend Development & API Engineering**  
-- ☁️ **Cloud Deployment & DevOps**  
+🤖 Machine Learning, Deep Learning and Generative AI  
+⚙️ Automation & Workflow Orchestration  
+🔧 Backend Development & API Engineering  
+☁️ Cloud Deployment & DevOps  
 
 ---
 
@@ -26,6 +20,7 @@ I enjoy working at the intersection of **machine learning**, **cloud deployment*
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 ### 🧱 Frameworks & Tools
@@ -55,7 +50,7 @@ I enjoy working at the intersection of **machine learning**, **cloud deployment*
 ### ☁️ Cloud & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -70,5 +65,3 @@ I enjoy working at the intersection of **machine learning**, **cloud deployment*
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
----
