@@ -4,7 +4,7 @@
 I have a deep interest in building intelligent systems and scalable backend solutions.  
 I enjoy working at the intersection of **machine learning**, **cloud deployment**, and **automation**, turning ideas into real-world applications.  
   
-🌱 **Learning:** Advanced generative AI techniques, graph-based knowledge systems (Neo4j, LangGraph)  
+🌱 **Learning:** Go for building mciro-ai services
 💡 **Interests:** Cloud-native AI, backend architecture, and leveraging automation for smarter developer workflows  
 🎯 **Goal:** Becoming a leading engineer in **AI + Cloud systems**, contributing to projects that push boundaries in intelligent automation  
 
