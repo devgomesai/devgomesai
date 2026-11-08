@@ -1,3 +1,4 @@
+
 ### 🚀 About Me
 I have a deep interest in building intelligent systems and scalable backend solutions.  
 I enjoy working at the intersection of machine learning, cloud deployment, and automation, turning ideas into real-world applications.
@@ -7,9 +8,11 @@ I enjoy working at the intersection of machine learning, cloud deployment, and a
 ## 💼 Areas of Expertise
 
 🤖 Machine Learning, Deep Learning and Generative AI  
+🧠 Agentic AI & Multi-Agent Systems  
 ⚙️ Automation & Workflow Orchestration  
 🔧 Backend Development & API Engineering  
 ☁️ Cloud Deployment & DevOps  
+🔗 AI Agent Integration & Interoperability (MCP, A2A)  
 
 ---
 
@@ -26,7 +29,7 @@ I enjoy working at the intersection of machine learning, cloud deployment, and a
 ### 🧱 Frameworks & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -48,6 +51,17 @@ I enjoy working at the intersection of machine learning, cloud deployment, and a
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
+### 🧠 Agentic AI & Multi-Agent Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llamaindex&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBOS-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepAgents-1C3C3C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-6E56CF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent2Agent-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20Agent%20SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
 ### ☁️ Cloud & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -65,4 +79,13 @@ I enjoy working at the intersection of machine learning, cloud deployment, and a
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### 🏅 Certifications & Professional Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-CCDV--F-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-CCAR--P-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-Generative%20AI%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
