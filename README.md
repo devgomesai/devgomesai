@@ -83,7 +83,7 @@ I enjoy working at the intersection of machine learning, cloud deployment, and a
 
 ### 🏅 Certifications & Professional Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-AIF--C01-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&logoSize=auto" />
   <img src="https://img.shields.io/badge/Anthropic-CCDV--F-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic-CCAR--P-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
